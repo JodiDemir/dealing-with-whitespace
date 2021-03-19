@@ -1,0 +1,21 @@
+html {
+  box-sizing: border-box;
+  font-family: 'Crimson Text', serif;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+h1 {
+  font-weight: lighter;
+}
+
+article header p {
+  font-style: italic;
+}
+
+.quote {
+  font-size: 1.5rem;
+  color: #999;
+}
