@@ -21,12 +21,12 @@ article header p {
 }
 
 .quote {
-  color: #999;
+  color: #555;
 }
 
 blockquote {
   font-size: 1.125rem;
-  color: #555;
+  color: #999;
 }
 
 body {
@@ -37,7 +37,7 @@ body {
 }
 
 article ol {
-  padding-left: 1em;
+  padding: 0 1.3rem 1.3rem 1em;
 }
 
 article header {
